@@ -1,6 +1,6 @@
 # find-everything
 
-跨平台资源搜索编排器，为 Claude Code 打造。一句话搜遍 15 个源，找到你需要的 Skill、MCP Server、Prompt 模板或开源项目。
+跨平台资源搜索编排器 for AI Agent。一句话搜遍 15 个源，找到你需要的 Skill、MCP Server、Prompt 模板或开源项目。
 
 ## 功能
 
